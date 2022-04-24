@@ -11,4 +11,4 @@ sidebar: auto
 
 ## What type of products does it sell?
 
-- Find out here.
+- Find out <a href="https://uaicentral.com/products">here</a>.
