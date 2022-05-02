@@ -14,3 +14,10 @@
 
 [Uai Central](/uai/) <br />Online Brazilian marketplace.
 
+# Links
+
+<a href="https://angel.co/u/nicoestrada">AngelList</a> <a>|</a>
+<a href="https://linkedin.com/in/nico-estrada">LinkedIn</a> <a>|</a>
+<a href="https://github.com/nicoestrada">GitHub</a> <a>|</a>
+<a href="https://twitter.com/stradamoney">Twitter</a>
+
