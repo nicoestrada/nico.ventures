@@ -8,6 +8,10 @@
 
 [Knowledge](/knowledge/) <br />Open notebook.
 
+# Seed-stage
+
+<a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
+
 # Startups
 
 [EspressGrow](/espressgrow) <br />E-commerce consulting agency.
