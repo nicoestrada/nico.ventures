@@ -1,10 +1,6 @@
-# Entrepreneur and Co-Founder
+# Entrepreneur and Developer
 
 [Blog](/blog/) <br />General writing and opinions.
-
-[Levels](/levels/) <br />Mental models.
-
-[Labs](/labs/) <br />Experiments and theories.
 
 [Knowledge](/knowledge/) <br />Open notebook.
 
@@ -17,6 +13,8 @@
 # Projects
 
 <a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
+
+<a href="https://seinterns-job-search.herokuapp.com/">SE Interns</a><br />Tech job board for interns
 
 
 # Links

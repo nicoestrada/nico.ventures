@@ -34,26 +34,22 @@ module.exports = {
     lastUpdated: true,
     nav: [
       {
-        text: 'Labs',
-        link: '/labs/',
-      },
-      {
         text: 'Blog',
         link: '/blog/'
       },
       {
-        text: 'Levels',
-        link: '/levels/'
+        text: 'Knowledge',
+        link: '/knowledge/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/knowledge/': [
         {
-          title: 'Guide',
+          title: 'Knowledge',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            ['/nutrition', 'nutrition']
           ]
         }
       ],
