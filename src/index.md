@@ -12,7 +12,7 @@
 
 # Projects
 
-<a href="https://post-writer.bubbleapps.io/version-test/gpt3-cold-writer">SmartSend</a><br />Introductory email generator using AI from OpenAI
+<a href="https://post-writer.bubbleapps.io/version-test?">SmartSend.ai</a><br />Email generator using AI from OpenAI
 
 <a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
 
