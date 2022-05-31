@@ -4,6 +4,8 @@
 This website is still under construction
 :::
 
+Building niche sites, brands, and marketplaces.
+
 [Blog](/blog/) <br />General writing and opinions.
 
 [Knowledge](/knowledge/) <br />Open notebook.
