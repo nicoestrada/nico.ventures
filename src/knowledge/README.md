@@ -8,6 +8,33 @@ A repository of personal knowledge that I update from time to time when I find i
 
 Use the sidebar to get started.
 
+::: tip
+Resources are for useful links
+:::
+
+## Architecture
+### Resources
+
+## Business
+### Resources
+
+## Garden
+### Resources
+
+## Nutrition
+### Resources
+
+## Philosophy
+### Resources
+
+## Propaganda
+### Resources
+
+## Tech
+### Resources
+<a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/?utm_source=pocket_mylist">CI/CD using GitHub actions</a>
+
+
 ---
 
 <section-contents />

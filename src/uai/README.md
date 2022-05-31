@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Uai Central
+# Uai Central (pronounced 'why')
 
 ## What kind of marketplace?
 

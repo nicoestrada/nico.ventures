@@ -1,22 +1,24 @@
 # Entrepreneur and Developer
 
+::: warning
+This website is still under construction
+:::
+
 [Blog](/blog/) <br />General writing and opinions.
 
 [Knowledge](/knowledge/) <br />Open notebook.
 
-# Startups
-
-[EspressGrow](/espressgrow) <br />E-commerce consulting agency.
+# Companies
 
 [Uai Central](/uai/) <br />Online Brazilian marketplace.
+
+[EspressGrow](/espressgrow) <br />E-commerce consulting agency.
 
 # Projects
 
 <a href="https://streamable.com/60cwmt">SmartSend.ai</a><br />Email generator using AI from OpenAI
 
 <a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
-
-<a href="https://seinterns-job-search.herokuapp.com/">SE Interns</a><br />Tech job board for interns
 
 
 # Links

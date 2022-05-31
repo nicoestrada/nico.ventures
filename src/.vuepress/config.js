@@ -46,10 +46,10 @@ module.exports = {
       '/knowledge/': [
         {
           title: 'Knowledge',
-          collapsable: false,
+          collapsable: true,
           children: [
             '',
-            ['/nutrition', 'nutrition']
+            ['/tech', 'tech']
           ]
         }
       ],
