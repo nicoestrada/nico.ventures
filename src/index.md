@@ -20,8 +20,6 @@ Building niche sites, brands, and marketplaces.
 
 <a href="https://streamable.com/60cwmt">SmartSend.ai</a><br />Email generator using API's from OpenAI
 
-<a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
-
 
 # Links
 
