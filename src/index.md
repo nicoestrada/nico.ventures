@@ -1,7 +1,7 @@
 # Entrepreneur and Developer
 
 ::: warning
-This website is still under construction
+This website is an open repo that periodically updates
 :::
 
 Building niche sites, brands, and marketplaces.
@@ -14,11 +14,11 @@ Building niche sites, brands, and marketplaces.
 
 [Uai Central](/uai/) <br />Online Brazilian marketplace.
 
-[EspressGrow](/espressgrow) <br />E-commerce consulting agency.
-
 # Projects
 
-<a href="https://streamable.com/60cwmt">SmartSend.ai</a><br />Email generator using AI from OpenAI
+<a href="https://boxable.io">Boxable.io</a><br />AI-powered fulfillment for FBA sellers
+
+<a href="https://streamable.com/60cwmt">SmartSend.ai</a><br />Email generator using API's from OpenAI
 
 <a href="https://locallistings.herokuapp.com/">Bldr</a><br />Builders & contractors social marketplace
 
