@@ -4,17 +4,17 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 [Blog](/blog/) <br />General writing and opinions.
 
-[Knowledge](/knowledge/) <br />Open notebook.
+[Knowledge](/knowledge/) <br />My open notebook of resources.
 
-# Companies
+# Experience
 
-[Uai Central](/uai/) <br />Online Brazilian marketplace.
+<a href="https://gm.com">General Motors</a><br />Software Developer - Global OMS
 
 # Projects
 
-[Boxable.io](/boxable/) <br />AI-powered fulfillment for FBA sellers
+[Boxable.io](/boxable/) <br />AI-powered fulfillment for FBA sellers</br></br>
+[Uai Central](/uai/) <br />Online Brazilian marketplace.
 
-<a href="https://streamable.com/60cwmt">SmartSend.ai</a><br />Email generator using API's from OpenAI
 
 
 # Links

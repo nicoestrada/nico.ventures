@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nico Estrada is an Entrepreneur, Founder and Student.',
+  description: 'Nico Estrada is a Software Developer, Entrepreneur and Student.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
