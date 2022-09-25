@@ -32,8 +32,8 @@ Use the sidebar to get started.
 ## Propaganda
 
 ## Tech
-<a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/?utm_source=pocket_mylist">CI/CD using GitHub actions</a>
-<a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html?utm_source=pocket_mylist">Why Software Projects Take Longer Than You Think></a></br>
+<a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/?utm_source=pocket_mylist">CI/CD using GitHub actions</a></br>
+<a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html?utm_source=pocket_mylist">Why Software Projects Take Longer Than You Think</a></br>
 
 
 ---
