@@ -4,14 +4,13 @@ sidebar: auto
 
 # Knowledge
 
-A repository of personal knowledge that I update from time to time when I find interesting links or research a topic. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
-
-Use the sidebar to get started.
+A repository of personal knowledge that I update from time to time when I find interesting links or research a topic. I expect this to be a library of compounded knowledge over time. I only expect them to be useful and accurate after a lifetime of updates.
 
 ## Business
 <a href="https://iism.org/article/so-why-are-software-engineers-better-ceos-60?utm_source=pocket_mylist">Why are Software Engineers Better than CEO's?</a></br>
 <a href="https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got?utm_source=pocket_mylist">How the Biggest Consumer Apps Got Their First 1,000 Users</a></br>
 <a href="https://hbr.org/2018/07/research-the-average-age-of-a-successful-startup-founder-is-45?utm_source=pocket_mylist">Average Age of a Successful Startup Founder</a></br>
+<a href="https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential">Why Feelings of Guilt May Signal Leadership Potential</a></br>
 
 ## Health
 <a href="https://heliotherapy.institute/red-light-therapy-trials/?utm_source=pocket_mylist">Red Light Therapy Trials</a></br>
