@@ -27,6 +27,9 @@ A repository of personal knowledge that I update from time to time when I find i
 <a href="http://raypeat.com/articles/articles/caffeine.shtml?utm_source=pocket_mylist">Caffeine</a></br>
 <a href="https://grapplinglane.substack.com/p/gl-9-caffeine-and-exercise-performance">Caffeine and Exercise Performance</a></br>
 
+## Open Courses
+<a href="https://computationalthinking.mit.edu/Spring21/">Introduction to Computational Thinking</a></br>
+
 ## Philosophy
 <a href="https://psyche.co/guides/how-to-read-philosophy-with-an-adversarial-approach?utm_source=pocket_mylist">How to Read Philosophy</a></br>
 <a href="https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/?utm_source=pocket_mylist">Philosophy of Mathematics Reading List</a></br>
