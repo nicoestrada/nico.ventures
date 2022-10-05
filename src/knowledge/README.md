@@ -27,6 +27,9 @@ A repository of personal knowledge that I update from time to time when I find i
 <a href="http://raypeat.com/articles/articles/caffeine.shtml?utm_source=pocket_mylist">Caffeine</a></br>
 <a href="https://grapplinglane.substack.com/p/gl-9-caffeine-and-exercise-performance">Caffeine and Exercise Performance</a></br>
 
+## Mathematics
+<a href="https://en.wikipedia.org/wiki/Proof_by_contradiction">Proof by Contradiction</a></br>
+
 ## Open Courses
 <a href="https://computationalthinking.mit.edu/Spring21/">Introduction to Computational Thinking</a></br>
 
