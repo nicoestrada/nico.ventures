@@ -1,8 +1,6 @@
-# Software Developer and Entrepreneur
+# Software Engineer and Entrepreneur
 
 This blog is just an open repo that periodically updates :tada: :100:
-
-[Blog](/blog/) <br />General writing and opinions.
 
 [Knowledge](/knowledge/) <br />My open notebook of resources.
 
@@ -17,7 +15,7 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Links
 
-<a href="https://angel.co/u/nicoestrada">AngelList</a> <a>|</a>
+<a href="https://instagram.com/nicoestrda">Instagram</a> <a>|</a>
 <a href="https://linkedin.com/in/nico-estrada">LinkedIn</a> <a>|</a>
 <a href="https://github.com/nicoestrada">GitHub</a></a>
 
