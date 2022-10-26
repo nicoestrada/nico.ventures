@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nico Estrada is a Software Developer, Entrepreneur and Student.',
+  description: 'Nico Estrada is a Software Engineer, Entrepreneur and Student.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -33,10 +33,6 @@ module.exports = {
     editLinkText: '',
     lastUpdated: true,
     nav: [
-      {
-        text: 'Blog',
-        link: '/blog/'
-      },
       {
         text: 'Knowledge',
         link: '/knowledge/'

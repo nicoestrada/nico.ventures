@@ -1,4 +1,4 @@
-# Software Engineer and Entrepreneur
+# Software Developer and Entrepreneur
 
 This blog is just an open repo that periodically updates :tada: :100:
 
@@ -6,12 +6,12 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Experience
 
-<a href="https://gm.com">General Motors</a><br />Software Developer - Global OMS
+[Boxable.io](/boxable/) <br />AI-powered packing support for e-commerce sellers</br></br>
 
-## Projects
+[Uai Central](/uai/) <br />Latam e-commerce marketplace.
 
-[Boxable.io](/boxable/) <br />AI-powered fulfillment for FBA sellers</br></br>
-[Uai Central](/uai/) <br />Online Brazilian marketplace.
+<a href="https://gm.com">General Motors</a><br />Software Developer - Global Order Management 
+
 
 ## Links
 
