@@ -12,8 +12,9 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 [Boxable.io](/boxable/) <br />Software Developer - AI-powered packing support for e-commerce sellers</br>
 
-[Uai Central](/uai/) <br />Co-founder - Latam e-commerce marketplace
+## Open Source Contributions
 
+<a href="https://solana.com">Solana Labs</a><br />Launched a SPL Token on the Solana blockchain
 
 ## Links
 
