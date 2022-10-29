@@ -10,7 +10,7 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Projects
 
-[Boxable.io](/boxable/) <br />Software Developer - AI-powered packing support for e-commerce sellers</br>
+<a href="https://boxable.io">Boxable</a><br />Software Developer - AI-powered packing support for e-commerce sellers</br>
 
 ## Open Source Contributions
 
@@ -18,6 +18,7 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Links
 
-<a href="https://linkedin.com/in/nico-estrada">LinkedIn</a> <a>|</a>
-<a href="https://github.com/nicoestrada">GitHub</a></a>
+<a href="https://github.com/nicoestrada">GitHub</a> <a>|</a>
+<a href="https://linkedin.com/in/nico-estrada">LinkedIn</a>
+
 
