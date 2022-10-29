@@ -6,11 +6,13 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Experience
 
+<a href="https://gm.com">General Motors</a><br />Software Developer - Global order management for e-commerce
+
+## Projects
+
 [Boxable.io](/boxable/) <br />Software Developer - AI-powered packing support for e-commerce sellers</br>
 
 [Uai Central](/uai/) <br />Co-founder - Latam e-commerce marketplace
-
-<a href="https://gm.com">General Motors</a><br />Software Developer - Global order management for e-commerce
 
 
 ## Links
