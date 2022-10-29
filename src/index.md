@@ -14,6 +14,7 @@ This blog is just an open repo that periodically updates :tada: :100:
 
 ## Open Source Contributions
 
+<a href="https://medusajs.com">Medusa.js</a><br />The open source Shopify alternative<br /><br />
 <a href="https://solana.com">Solana Labs</a><br />Launched a SPL Token on the Solana blockchain
 
 ## Links
