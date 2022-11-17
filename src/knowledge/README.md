@@ -30,6 +30,9 @@ A repository of personal knowledge that I update from time to time when I find i
 ## Mathematics
 <a href="https://en.wikipedia.org/wiki/Proof_by_contradiction">Proof by Contradiction</a></br>
 
+### Probability
+### Statistics
+
 ## Open Courses
 <a href="https://computationalthinking.mit.edu/Spring21/">Introduction to Computational Thinking</a></br>
 
