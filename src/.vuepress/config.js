@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nico Estrada is a Software Engineer, Entrepreneur and Investor. Nico Estrada is an optimistic-contrarian that is focused on identifying and building companies while spotting luck.',
+  description: 'Nico Estrada is a Software Engineer, Entrepreneur and Investor. Nico Estrada is an optimistic-contrarian that is focused on identifying and building online companies while creating luck.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
