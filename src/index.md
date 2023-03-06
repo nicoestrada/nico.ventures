@@ -1,4 +1,4 @@
-# Software Engineer, Entrepreneur & Investor
+# Software Developer, Entrepreneur & Investor
 
 [Knowledge](/knowledge/) <br />My open notebook of resources.
 
