@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Nico Estrada',
+  title: 'Nicolas Estrada',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nico Estrada is a Software Engineer, Entrepreneur and Investor. Nico Estrada is an optimistic-contrarian that is focused on identifying and building companies while spotting luck.',
+  description: 'Nicolas Estrada is a Software Developer, Entrepreneur and Investor. Nicolas Estrada is focused on identifying and building companies while spotting trends.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -40,6 +40,14 @@ module.exports = {
       {
         text: 'Mental Models',
         link: '/mental-models/'
+      },
+      {
+        text: 'Business',
+        link: '/business/'
+      },
+      {
+        text: 'Twitter',
+        link: 'https://twitter.com/stradamoney'
       }
     ],
   },
