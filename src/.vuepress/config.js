@@ -38,10 +38,6 @@ module.exports = {
         link: '/knowledge/'
       },
       {
-        text: 'Mental Models',
-        link: '/mental-models/'
-      },
-      {
         text: 'Business',
         link: '/business/'
       },
