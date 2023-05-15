@@ -1,7 +1,7 @@
 # Developer & Entrepreneur
 
-[Knowledge](/knowledge/) <br />My open notebook of resources.
+[Knowledge](/knowledge/) <br />Findings that I refer to.
 
 <!-- [Mental Models](/mental-models/) <br />Thinking principles that I have curated. -->
 
-[Business](/business) <br /> Find out what businesses I am working on.
+[Business](/business) <br />Find out what businesses I am working on.

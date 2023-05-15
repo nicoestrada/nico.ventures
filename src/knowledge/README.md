@@ -4,7 +4,7 @@ sidebar: auto
 
 # Knowledge
 
-A repository of personal knowledge that I update from time to time when I find interesting links or research a topic. I expect this to be a library of compounded knowledge over time. I only expect them to be useful and accurate after a lifetime of updates.
+Some interesting findings that I look back on from time to time.
 
 ## Business
 <a href="https://iism.org/article/so-why-are-software-engineers-better-ceos-60?utm_source=pocket_mylist">Why are Software Engineers Better than CEO's?</a></br>
