@@ -44,6 +44,10 @@ module.exports = {
       {
         text: 'Twitter',
         link: 'https://twitter.com/stradamoney'
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/nicoestrada'
       }
     ],
   },

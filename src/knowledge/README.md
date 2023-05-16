@@ -7,25 +7,37 @@ sidebar: auto
 Some interesting findings that I look back on from time to time.
 
 ## Business
+<a href="https://www.generalist.com/briefing/who-becomes-an-entrepreneur?utm_source=pocket_saves">Who Becomes an Entrepreneur?</a></br>
 <a href="https://iism.org/article/so-why-are-software-engineers-better-ceos-60?utm_source=pocket_mylist">Why are Software Engineers Better than CEO's?</a></br>
 <a href="https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got?utm_source=pocket_mylist">How the Biggest Consumer Apps Got Their First 1,000 Users</a></br>
 <a href="https://hbr.org/2018/07/research-the-average-age-of-a-successful-startup-founder-is-45?utm_source=pocket_mylist">Average Age of a Successful Startup Founder</a></br>
 <a href="https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential">Why Feelings of Guilt May Signal Leadership Potential</a></br>
+<a href="https://recurly.com/blog/why-pausing-a-subscription-can-be-a-powerful-retention-tactic/?utm_source=pocket_saves">Why Pausing a Subscription Leads to Retention</a></br>
+
+### Fundraising
+<a href="https://toucantech.com/news/fundraising-ideas/203/203-Demystifying-fundraising-strategy-The-round-up">Demystifying Fundraising Strategy</a></br>
 
 ## Health
 <a href="https://heliotherapy.institute/red-light-therapy-trials/?utm_source=pocket_mylist">Red Light Therapy Trials</a></br>
 <a href="https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb">Anxiety Is In Your Body, Not Your Mind</a>
+<a href="https://www.consultantnutritionist.com/herbal-medicine/108-how-to-detox-plastic-particles-that-are-in-everyones-body.html?utm_source=pocket_saves">How to Detox Plastic In Your Body</a></br>
 
-## Homesteading
-<a href="https://farminence.com/raising-chickens-on-pasture/">Raising Chickens on Pasture</a></br>
-
-## Language
-<a href="https://runwes.com/2020/02/11/howilearnedfrench.html?utm_source=pocket_mylist">How to Learn a Language in 12 Months</a>
-
-## Nutrition
+### Nutrition
 <a href="https://dannyroddy.substack.com/p/demystifying-thyroid-supplementation?utm_source=pocket_mylist">Demystifying Thyroid Supplementation</a></br>
 <a href="http://raypeat.com/articles/articles/caffeine.shtml?utm_source=pocket_mylist">Caffeine</a></br>
 <a href="https://grapplinglane.substack.com/p/gl-9-caffeine-and-exercise-performance">Caffeine and Exercise Performance</a></br>
+
+## History
+
+<a href="https://www.spainthenandnow.com/spanish-history/al-andalus-rise-and-fall-of-islamic-spain?utm_source=pocket_saves">Al-Andalus: Rise and Fall of Islamic Spain</a></br>
+
+## Miscellaneous
+
+### Homesteading
+<a href="https://farminence.com/raising-chickens-on-pasture/">Raising Chickens on Pasture</a></br>
+
+### Language
+<a href="https://runwes.com/2020/02/11/howilearnedfrench.html?utm_source=pocket_mylist">How to Learn a Language in 12 Months</a>
 
 ## Mathematics
 <a href="https://en.wikipedia.org/wiki/Proof_by_contradiction">Proof by Contradiction</a></br>
@@ -45,6 +57,8 @@ Some interesting findings that I look back on from time to time.
 <a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/?utm_source=pocket_mylist">CI/CD using GitHub actions</a></br>
 <a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html?utm_source=pocket_mylist">Why Software Projects Take Longer Than You Think</a></br>
 <a href="https://askwhy.substack.com/p/ux-research-for-engineers">UX Research for Engineers</a></br>
+<a href="https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a">What I Learned As a Product Designer at Apple</a></br>
+<a href="https://www.monolithai.com/blog/4-ways-ai-is-changing-the-packaging-industry?utm_source=pocket_saves">4 Ways AI is Changing the Packaging Industry</a></br>
 
 
 ---
