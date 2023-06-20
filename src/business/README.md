@@ -9,10 +9,10 @@ A repo of business ventures that I have an active role in.
 
 ## Apps
 ### PartnerWise
-<a href="https://partnerwise.io">Bridging partnership opportunities between digital creators and brands</a></br>
+<a href="https://partnerwise.io">The Ultimate Prospecting and Intelligence Tool for the Creator Economy</a></br>
 
 ### Boxable
-<a href="https://boxable.io">AI-Powered Packing Service</a></br>
+<a href="https://vimeo.com/734165422">AI-Powered Packing Service for Amazon FBA Sellers</a></br>
 
 ## E-commerce
 ### Uai Central
