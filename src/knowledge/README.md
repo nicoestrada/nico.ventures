@@ -21,6 +21,8 @@ Some interesting findings that I look back on from time to time.
 <a href="https://heliotherapy.institute/red-light-therapy-trials/?utm_source=pocket_mylist">Red Light Therapy Trials</a></br>
 <a href="https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb">Anxiety Is In Your Body, Not Your Mind</a>
 <a href="https://www.consultantnutritionist.com/herbal-medicine/108-how-to-detox-plastic-particles-that-are-in-everyones-body.html?utm_source=pocket_saves">How to Detox Plastic In Your Body</a></br>
+<a href="https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain?utm_source=pocket_saves">America’s most widely consumed cooking oil causes genetic changes in the brain</a></br>
+<a href="https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate?utm_source=pocket_saves">The Mystery of the Declining U.S. Birth Rate</a></br>
 
 ### Nutrition
 <a href="https://dannyroddy.substack.com/p/demystifying-thyroid-supplementation?utm_source=pocket_mylist">Demystifying Thyroid Supplementation</a></br>
@@ -32,6 +34,7 @@ Some interesting findings that I look back on from time to time.
 <a href="https://www.spainthenandnow.com/spanish-history/al-andalus-rise-and-fall-of-islamic-spain?utm_source=pocket_saves">Al-Andalus: Rise and Fall of Islamic Spain</a></br>
 
 ## Miscellaneous
+<a href="https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/?utm_source=pocket_saves">Intelligent people take longer to solve hard problems</a></br>
 
 ### Homesteading
 <a href="https://farminence.com/raising-chickens-on-pasture/">Raising Chickens on Pasture</a></br>
@@ -59,7 +62,7 @@ Some interesting findings that I look back on from time to time.
 <a href="https://askwhy.substack.com/p/ux-research-for-engineers">UX Research for Engineers</a></br>
 <a href="https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a">What I Learned As a Product Designer at Apple</a></br>
 <a href="https://www.monolithai.com/blog/4-ways-ai-is-changing-the-packaging-industry?utm_source=pocket_saves">4 Ways AI is Changing the Packaging Industry</a></br>
-
+<a href="https://www.bitecode.dev/p/hype-cycles?utm_source=pocket_saves">Hype Cycles</a></br>
 
 ---
 

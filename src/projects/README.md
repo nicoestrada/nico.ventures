@@ -2,9 +2,9 @@
 sidebar: auto
 ---
 
-# Business
+# Projects
 
-A repo of business ventures that I have an active role in.
+A repo of some ventures that I have an active role in.
 
 
 ## Apps
