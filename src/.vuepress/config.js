@@ -38,8 +38,8 @@ module.exports = {
         link: '/knowledge/'
       },
       {
-        text: 'Business',
-        link: '/business/'
+        text: 'Projects',
+        link: '/projects/'
       },
       {
         text: 'Twitter',
