@@ -63,6 +63,10 @@ Some interesting findings that I look back on from time to time.
 <a href="https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a">What I Learned As a Product Designer at Apple</a></br>
 <a href="https://www.monolithai.com/blog/4-ways-ai-is-changing-the-packaging-industry?utm_source=pocket_saves">4 Ways AI is Changing the Packaging Industry</a></br>
 <a href="https://www.bitecode.dev/p/hype-cycles?utm_source=pocket_saves">Hype Cycles</a></br>
+<a href="https://medium.com/swlh/understanding-java-streams-e0f2df12441f#:~:text=Java%20Streams%20are%20basically%20a,gets%20applied%20to%20our%20sequence.">Understanding Java Stream</a></br>
+<a href="https://betterprogramming.pub/when-parallelism-beats-concurrency-5f52d7012944">When Parallelism Beats Concurrency</a></br>
+<a href="https://medium.com/swlh/combining-multiple-api-calls-with-completablefuture-1d9d27e03bec">Combining Multiple API Calls</a></br>
+
 
 ---
 
