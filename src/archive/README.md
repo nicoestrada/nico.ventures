@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Knowledge
+# Digital Archive
 
 Some interesting findings that I look back on from time to time.
 

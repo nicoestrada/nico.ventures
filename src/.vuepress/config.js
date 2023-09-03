@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Nicolas Estrada',
+  title: 'Nico Estrada',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nicolas Estrada is a Software Developer, Entrepreneur and Investor. Nicolas Estrada is focused on identifying and building companies while spotting trends.',
+  description: 'Nico Estrada is a Software Developer, Entrepreneur and Investor. Nicolas Estrada is focused on identifying and building companies while spotting trends.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -34,16 +34,16 @@ module.exports = {
     lastUpdated: true,
     nav: [
       {
-        text: 'Knowledge',
-        link: '/knowledge/'
+        text: 'Archive',
+        link: '/archive/'
       },
       {
         text: 'Projects',
         link: '/projects/'
       },
       {
-        text: 'Twitter',
-        link: 'https://twitter.com/stradamoney'
+        text: 'X',
+        link: 'https://x.com/stradamoney'
       },
       {
         text: 'GitHub',
