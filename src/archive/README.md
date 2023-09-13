@@ -4,7 +4,7 @@ sidebar: auto
 
 # Digital Archive
 
-Some interesting findings that I look back on from time to time.
+Some interesting findings that I look back on from time to time. I try to update this repo periodically as I come across them. 
 
 ## Business
 <a href="https://www.generalist.com/briefing/who-becomes-an-entrepreneur?utm_source=pocket_saves">Who Becomes an Entrepreneur?</a></br>
@@ -23,6 +23,7 @@ Some interesting findings that I look back on from time to time.
 <a href="https://www.consultantnutritionist.com/herbal-medicine/108-how-to-detox-plastic-particles-that-are-in-everyones-body.html?utm_source=pocket_saves">How to Detox Plastic In Your Body</a></br>
 <a href="https://www.universityofcalifornia.edu/news/americas-most-widely-consumed-cooking-oil-causes-genetic-changes-brain?utm_source=pocket_saves">America’s most widely consumed cooking oil causes genetic changes in the brain</a></br>
 <a href="https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate?utm_source=pocket_saves">The Mystery of the Declining U.S. Birth Rate</a></br>
+<a href="https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/?utm_source=pocket_saves">Social media’s addictive loop compels users to share mindlessly</a></br>
 
 ### Nutrition
 <a href="https://dannyroddy.substack.com/p/demystifying-thyroid-supplementation?utm_source=pocket_mylist">Demystifying Thyroid Supplementation</a></br>
@@ -35,6 +36,7 @@ Some interesting findings that I look back on from time to time.
 
 ## Miscellaneous
 <a href="https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/?utm_source=pocket_saves">Intelligent people take longer to solve hard problems</a></br>
+<a href="https://www.businessinsider.com/reddit-cofounder-alexis-ohanian-on-ceo-regrets-missing-family-time-2023-8?utm_source=pocket_saves">Reddit cofounder Alexis Ohanian says the most successful CEOs regret not spending more time with their kids</a></br>
 
 ### Homesteading
 <a href="https://farminence.com/raising-chickens-on-pasture/">Raising Chickens on Pasture</a></br>
@@ -66,6 +68,8 @@ Some interesting findings that I look back on from time to time.
 <a href="https://medium.com/swlh/understanding-java-streams-e0f2df12441f#:~:text=Java%20Streams%20are%20basically%20a,gets%20applied%20to%20our%20sequence.">Understanding Java Stream</a></br>
 <a href="https://betterprogramming.pub/when-parallelism-beats-concurrency-5f52d7012944">When Parallelism Beats Concurrency</a></br>
 <a href="https://medium.com/swlh/combining-multiple-api-calls-with-completablefuture-1d9d27e03bec">Combining Multiple API Calls</a></br>
+<a href="https://gist.github.com/soulmachine/b368ce7292ddd7f91c15accccc02b8df?utm_source=pocket_saves">How to Handle JWT Expiration</a></br>
+<a href="https://blog.logrocket.com/rate-limiting-node-js/?utm_source=pocket_saves">Understanding and handling rate limiting in Node.js</a></br>
 
 
 ---
