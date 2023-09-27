@@ -10,9 +10,8 @@ A repo of some projects that I built or currently building.
 ## Apps
 ### [PartnerWise](https://partnerwise.io) 
 Check it out on <a href="https://www.producthunt.com/products/partnerwise#partnerwise">Product Hunt</a>
-<br /><strong>Launched Aug 15, 2023 -</strong>
-1,500 emails, 400+ users
-
+<br /><strong>Launched Aug 15, 2023</strong>
+2k+ users
 
 ## Websites
 ### [Deaths Today](https://deaths.today)
