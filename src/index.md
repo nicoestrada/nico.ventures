@@ -1,4 +1,4 @@
-# Software Engineer & Entrepreneur
+# Software Engineer
 
 [Archive](/archive/) <br />Findings on the internet that I refer to.
 
