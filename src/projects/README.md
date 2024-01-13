@@ -14,6 +14,7 @@ Check it out on <a href="https://www.producthunt.com/products/partnerwise#partne
 
 ## Websites
 ### [Deaths Today](https://deaths.today)
+A daily email of notable deaths around the world
 
 
 <!-- ### Boxable
