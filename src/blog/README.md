@@ -4,11 +4,7 @@ sidebar: auto
 
 # Blog
 
-Some off-topic explorations, opinions and substance that I found to be interesting and worth the share.
-
-[Hustle Culture](/blog/hustle-culture/)
-
-[Building in Public](/blog/building-in-public/)
+Some written explorations, opinions and substance that I found to be interesting and worth the share.
 
 ---
 

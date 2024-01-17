@@ -34,6 +34,10 @@ module.exports = {
     lastUpdated: true,
     nav: [
       {
+        text: 'Notepad',
+        link: '/notepad/'
+      },
+      {
         text: 'Archive',
         link: '/archive/'
       },

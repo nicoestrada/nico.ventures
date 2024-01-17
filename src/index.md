@@ -1,8 +1,8 @@
-## Software Developer & Entrepreneur
+## Software Engineer & Entrepreneur
+
+[Notepad](/notepad/) <br />An open notepad of my thoughts, ideas and gatherings.
 
 [Archive](/archive/) <br />Findings on the internet that I refer to.
-
-<!-- [Mental Models](/mental-models/) <br />Thinking principles that I have curated. -->
 
 [Projects](/projects) <br />Check out what I've built or currently building.
 
