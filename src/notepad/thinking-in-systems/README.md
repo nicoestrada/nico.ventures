@@ -6,7 +6,7 @@ sidebar: auto
 
 Resource: <a href="https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557">Thinking in Systems by Donella H. Meadows.</a>
 
-As an early-career software engineer, I am striving to improve the depth of knowledge that I have in systems as much as I can . This is one of my efforts to achieve that. I believe learning about thinking in systems will benefit my craft as a developer and help me make better technical and organizational decisions when I build products and make contributions that I hope to be useful and meaningful in the future. 
+I am striving to improve the depth of knowledge that I have in systems as much as I can . This is one of my efforts to achieve that. I believe learning about thinking in systems will benefit my craft as a developer and help me make better technical and organizational decisions when I build products and make contributions in the future. 
 
 I use tip boxes to highlight relevant quotes that stood out to me.
 
