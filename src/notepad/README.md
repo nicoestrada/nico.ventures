@@ -8,6 +8,9 @@ This is designed to be an open notepad of my thoughts, ideas and gatherings as I
 
 [Thinking in Systems](/notepad/thinking-in-systems/)
 
+[Algorithms](/notepad/algorithms/)
+
+
 ---
 
 <section-contents />
