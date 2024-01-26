@@ -1,4 +1,4 @@
-## Software Engineer & Entrepreneur
+## Software Engineer
 
 [Notepad](/notepad/) <br />An open notepad of my thoughts, ideas and gatherings.
 
