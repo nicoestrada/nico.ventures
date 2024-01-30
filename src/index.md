@@ -6,7 +6,7 @@
 
 [Projects](/projects) <br />Check out what I've built or currently building.
 
-[Socials](/) <br />
+[Connect with me](/) <br />
 [X](https://x.com/stradamoney)
 [GitHub](https://github.com/nicoestrada)
 [LinkedIn](https://linkedin.com/in/nico-estrada)
