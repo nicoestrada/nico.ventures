@@ -21,7 +21,9 @@ It will return the saved element variable which will be the majority, if there i
 
 ## [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
 
-## [Kahn's Algorithm ](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
+## [Kahn's Algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
 
 Topological sort
+
+## [Euclidian Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
