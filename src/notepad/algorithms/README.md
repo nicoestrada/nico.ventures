@@ -6,6 +6,8 @@ sidebar: auto
 
 Just a list of algorithms that I come across and find fascinating enough to leave here with my thoughts and gatherings of them.
 
+[LeetCode](/notepad/algorithms/leetcode/)
+
 ## [Boyer-Moore Majority Vote](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
 This algorithm solves the problem of finding the majority element in an array of numbers, in linear time. The idea of it is creating a variable to save the element, a counter variable initialized to 0, and iterating through each element in the array. 
 
