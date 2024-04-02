@@ -6,9 +6,9 @@ sidebar: auto
 
 This is designed to be an open notepad of my thoughts, ideas and gatherings as I read and digest resources.
 
-## Self study
-
 [Algorithms](/notepad/algorithms/)
+
+[Parallel Computing](/notepad/parallel-computing)
 
 ## Books
 
