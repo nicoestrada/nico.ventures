@@ -1,6 +1,6 @@
-## Software Engineer
+## Software Engineer and Founder
 
-[Notepad](/notepad/) <br />An open notepad of my thoughts, ideas and gatherings.
+<!-- [Notepad](/notepad/) <br />An open notepad of my thoughts, ideas and gatherings. -->
 
 [Archive](/archive/) <br />Findings on the internet that I refer to.
 
