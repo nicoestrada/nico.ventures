@@ -1,4 +1,4 @@
-## Software Engineer and Founder
+## My XP Farm
 
 <!-- [Notepad](/notepad/) <br />An open notepad of my thoughts, ideas and gatherings. -->
 
