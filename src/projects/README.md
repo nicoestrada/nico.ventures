@@ -7,9 +7,7 @@ sidebar: auto
 A repo of some projects that I built or currently building.
 
 
-## Platforms
-### [SmartSend](https://smartsend.ai)
-#### Launch coming soon
+## Projects
 
 ### [PartnerWise](https://partnerwise.io)
 #### Stack: MongoDB, Express.js, React.js, TypeScript & JavaScript, Node.js, Material/Joy UI
