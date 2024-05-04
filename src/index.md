@@ -1,4 +1,4 @@
-## My XP Farm
+## [My XP Farm]()
 
 Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, journaling, lifting and deep classical music to get zoned.
 
@@ -14,4 +14,4 @@ Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, jo
 [GitHub](https://github.com/nicoestrada)
 [LinkedIn](https://linkedin.com/in/nico-estrada)<br />
 
-<strong>Email me:</strong> estrada@hey.com
+[Email me](mailto:estrada@hey.com): estrada@hey.com
