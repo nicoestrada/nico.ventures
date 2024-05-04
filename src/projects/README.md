@@ -11,23 +11,12 @@ A repo of some projects that I built or currently building.
 
 ### [PartnerWise](https://partnerwise.io)
 #### Stack: MongoDB, Express.js, React.js, TypeScript & JavaScript, Node.js, Material/Joy UI
-Launched on <a href="https://www.producthunt.com/products/partnerwise#partnerwise">Product Hunt</a>, a discovery platform for creators and brands. 4,500+ signups.
-<br />
+Launched on <a href="https://www.producthunt.com/products/partnerwise#partnerwise">Product Hunt</a>, a discovery platform for creators to find paid partnerships easier and use AI to write a personalized pitch to be sent.
 
-### Boxable (acq. 2022)
-AI-Powered SaaS Packing Service for Amazon FBA Sellers
-
-## CLI
 ### [Scarlet-CLI](https://github.com/nicoestrada/scarlet-cli)
 #### Stack: Go, Cobra, Stripe-Go SDK
-A CLI application that fetches data from the Stripe API to the command line for SaaS founders
+A CLI application that fetches data from the Stripe API to the command line for SaaS founders. A project I created in a weekend to learn Go.
 
-## Websites
 ### [Deaths Today](https://deaths.today)
 #### Stack: Node.js, Moment, GitHub Actions, SendGrid
-A daily email of notable deaths around the world
-
-
-## E-commerce
-### [Uai Central](https://uaicentral.com)
-Exclusive distribution of ceramic water filters to North America
+A daily email of notable deaths around the world. It uses a cron job to parse Wikipedia's notable death page and SendGrid to email the parsed data.

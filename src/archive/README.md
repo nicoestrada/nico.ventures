@@ -49,6 +49,7 @@ Some interesting findings that I look back on from time to time. I try to update
 
 ### Probability
 ### Statistics
+<a href="https://en.wikipedia.org/wiki/Cosine_similarity" target="_blank">Cosine Similarity</a>
 
 ## Open Courses
 <a href="https://computationalthinking.mit.edu/Spring21/">Introduction to Computational Thinking</a></br>
@@ -59,6 +60,7 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://dvassallo.medium.com/only-intrinsic-motivation-lasts-92c0497cf97c"></a>
 
 ## Tech
+
 <a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/?utm_source=pocket_mylist">CI/CD using GitHub actions</a></br>
 <a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html?utm_source=pocket_mylist">Why Software Projects Take Longer Than You Think</a></br>
 <a href="https://askwhy.substack.com/p/ux-research-for-engineers">UX Research for Engineers</a></br>
@@ -70,7 +72,14 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://medium.com/swlh/combining-multiple-api-calls-with-completablefuture-1d9d27e03bec">Combining Multiple API Calls</a></br>
 <a href="https://gist.github.com/soulmachine/b368ce7292ddd7f91c15accccc02b8df?utm_source=pocket_saves">How to Handle JWT Expiration</a></br>
 <a href="https://blog.logrocket.com/rate-limiting-node-js/?utm_source=pocket_saves">Understanding and handling rate limiting in Node.js</a></br>
+<a href="https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61" target="_blank">Advanced Retriever Techniques to Improve Your RAGs</a>
 
+### Computer Science
+<a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention is All You Need</a></br>
+<a href="https://arxiv.org/pdf/2404.08144" target="_blank">LLM Agents can Autonomously Exploit One-day Vulnerabilities</a></br>
+<a href="https://www-nlp.stanford.edu/pubs/glove.pdf" target="_blank">GloVe: Global Vectors for Word Representation</a></br>
+<a href="https://arxiv.org/pdf/2310.08891" target="_blank">EHI: END-TO-END LEARNING OF HIERARCHICAL INDEX FOR EFFICIENT DENSE RETRIEVAL</a></br>
+<a href="https://arxiv.org/abs/1301.3781" target="_blank">Efficient Estimation of Word Representations in Vector Space</a></br>
 
 ---
 

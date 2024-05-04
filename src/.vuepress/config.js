@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Nico Estrada is a Software Developer, Entrepreneur and Investor. Nicolas Estrada is focused on identifying and building companies while spotting trends.',
+  description: 'Personal website, portfolio, and archive of Nico Estrada.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -16,7 +16,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#08113b' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
