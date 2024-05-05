@@ -75,6 +75,8 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61" target="_blank">Advanced Retriever Techniques to Improve Your RAGs</a>
 
 ### Computer Science
+<a href="https://arxiv.org/abs/2401.08406" target="_blank">RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture
+</a></br>
 <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention is All You Need</a></br>
 <a href="https://arxiv.org/pdf/2404.08144" target="_blank">LLM Agents can Autonomously Exploit One-day Vulnerabilities</a></br>
 <a href="https://www-nlp.stanford.edu/pubs/glove.pdf" target="_blank">GloVe: Global Vectors for Word Representation</a></br>
