@@ -1,6 +1,6 @@
 ## My XP Farm
 
-Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, journaling, lifting and deep classical music to get zoned.
+<!-- Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, journaling, lifting and deep classical music to get zoned. -->
 
 [Education]()<br /> Master of Computer Science at UIUC (2025)<br /> BA, Web Technologies at LUC (2021)
 
