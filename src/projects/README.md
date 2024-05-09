@@ -4,10 +4,7 @@ sidebar: auto
 
 # Projects
 
-A repo of some projects that I built or currently building.
-
-
-## Projects
+A repo of some projects that I built or currently building in sequential order.
 
 ### [PartnerWise](https://partnerwise.io)
 #### Stack: MongoDB, Express.js, React.js, TypeScript & JavaScript, Node.js, Material/Joy UI
