@@ -14,6 +14,9 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential">Why Feelings of Guilt May Signal Leadership Potential</a></br>
 <a href="https://recurly.com/blog/why-pausing-a-subscription-can-be-a-powerful-retention-tactic/?utm_source=pocket_saves">Why Pausing a Subscription Leads to Retention</a></br>
 
+## Chess
+<a href="http://billwall.phpwebhosting.com/articles/chunking.htm">Chunking Theory in Chess</a></br>
+
 ### Fundraising
 <a href="https://toucantech.com/news/fundraising-ideas/203/203-Demystifying-fundraising-strategy-The-round-up">Demystifying Fundraising Strategy</a></br>
 
