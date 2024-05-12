@@ -14,11 +14,11 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential">Why Feelings of Guilt May Signal Leadership Potential</a></br>
 <a href="https://recurly.com/blog/why-pausing-a-subscription-can-be-a-powerful-retention-tactic/?utm_source=pocket_saves">Why Pausing a Subscription Leads to Retention</a></br>
 
-## Chess
-<a href="http://billwall.phpwebhosting.com/articles/chunking.htm">Chunking Theory in Chess</a></br>
-
 ### Fundraising
 <a href="https://toucantech.com/news/fundraising-ideas/203/203-Demystifying-fundraising-strategy-The-round-up">Demystifying Fundraising Strategy</a></br>
+
+## Chess
+<a href="http://billwall.phpwebhosting.com/articles/chunking.htm">Chunking Theory in Chess</a></br>
 
 ## Health
 <a href="https://heliotherapy.institute/red-light-therapy-trials/?utm_source=pocket_mylist">Red Light Therapy Trials</a></br>
@@ -85,6 +85,7 @@ Some interesting findings that I look back on from time to time. I try to update
 <a href="https://www-nlp.stanford.edu/pubs/glove.pdf" target="_blank">GloVe: Global Vectors for Word Representation</a></br>
 <a href="https://arxiv.org/pdf/2310.08891" target="_blank">EHI: END-TO-END LEARNING OF HIERARCHICAL INDEX FOR EFFICIENT DENSE RETRIEVAL</a></br>
 <a href="https://arxiv.org/abs/1301.3781" target="_blank">Efficient Estimation of Word Representations in Vector Space</a></br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/359576.359579" target="_blank">Can Programming be Liberated from the Von Nuemann style?</a></br>
 
 ---
 
