@@ -12,7 +12,7 @@ Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, li
 [Connect with me](/) <br />
 [X](https://x.com/stradamoney)
 [GitHub](https://github.com/nicoestrada)
-[LinkedIn](https://linkedin.com/in/nico-estrada)<br />
+[LinkedIn](https://linkedin.com/in/nico-estrada)
 [Hugging Face](https://huggingface.co/nicoestrada)<br />
 
 [Email me](mailto:estrada@hey.com): estrada@hey.com
