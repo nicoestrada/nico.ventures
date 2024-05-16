@@ -6,6 +6,10 @@ sidebar: auto
 
 A repo of some projects that I built or currently building in sequential order.
 
+### [Llama3-8b RAG Implementation](https://llama3-rag-v0.streamlit.app/)
+#### Stack: Ollama, Chroma, Langchain, Streamlit
+A local AI model that uses context retrieved from a webpage the user enters, in order to use that information to chat with the user. 
+
 ### [PartnerWise](https://partnerwise.io)
 #### Stack: MongoDB, Express.js, React.js, TypeScript & JavaScript, Node.js, Material/Joy UI
 Launched on <a href="https://www.producthunt.com/products/partnerwise#partnerwise">Product Hunt</a>, a discovery platform for creators to find paid partnerships easier and use AI to write a personalized pitch to be sent.
