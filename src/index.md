@@ -15,4 +15,4 @@ Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, li
 [LinkedIn](https://linkedin.com/in/nico-estrada)
 [Hugging Face](https://huggingface.co/nicoestrada)<br />
 
-[Email me](mailto:estrada@hey.com): estrada@hey.com
+[Email me](mailto:estrada@hey.com) or reach out on X: estrada@hey.com
