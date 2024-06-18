@@ -1,6 +1,6 @@
 ## My XP Farm
 
-Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, lifting and deep classical music to get zoned.
+Besides cs stuff, I enjoy golf, chess, muay thai, biohacking, cooking, reading, lifting and deep classical music to get zoned.
 
 [Education]()<br /> Master of Computer Science at UIUC (2025)<br /> BA, Web Technologies at LUC (2021)
 
@@ -13,6 +13,5 @@ Besides coding, I enjoy golf, chess, muay thai, biohacking, cooking, reading, li
 [X](https://x.com/stradamoney)
 [GitHub](https://github.com/nicoestrada)
 [LinkedIn](https://linkedin.com/in/nico-estrada)
-[Hugging Face](https://huggingface.co/nicoestrada)<br />
 
-[Email me](mailto:estrada@hey.com) or reach out on X: estrada@hey.com
+[Email me](mailto:estrada@hey.com) or reach out on X!
