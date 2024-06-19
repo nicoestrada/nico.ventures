@@ -4,7 +4,7 @@ Besides cs stuff, I enjoy golf, chess, muay thai, biohacking, cooking, reading, 
 
 [Currently running a SaaS for content creators](https://partnerwise.io) and taking [CS421](https://cs.illinois.edu/academics/courses/cs421)
 
-[Education]()<br /> Master of Computer Science at UIUC (2024 - Present)<br /> BA, Web Technologies at LUC (2019 - 2021)
+[Education]()<br /> Master of Computer Science at UIUC (2024 - Present)<br /> Bachelor of Arts, Web Technologies at Loyola Chicago (2019 - 2021)
 
 [Projects](/projects) <br />Check out what I've built or currently building.
 
