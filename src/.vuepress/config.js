@@ -42,6 +42,10 @@ module.exports = {
         link: '/archive/'
       },
       {
+        text: 'Blog',
+        link: '/blog/'
+      },
+      {
         text: 'Projects',
         link: '/projects/'
       },
